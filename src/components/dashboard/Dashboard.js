@@ -1,0 +1,31 @@
+import React from 'react';
+import { connect } from 'react-redux';
+import { Redirect } from 'react-router-dom';
+
+import MultilineChart from './MultiLineChart';
+import StackedAreaChart from './StackedAreaChart';
+
+import lineChartData from './data/lineChartData.json'
+import areaChartData from './data/areaChartData.json';
+
+class Dashboard extends React.Component {
+  render () {
+    const { auth } = this.props;
+    if (!auth.uid) return <Redirect to='/signin' />
+    
+    return (
+      <div className="dashboard">
+        <MultilineChart chartData={lineChartData} />
+        <StackedAreaChart chartData={areaChartData} />
+      </div>
+    )
+  }
+}
+
+const mapStateToProps = (state) => {
+  return {
+    auth: state.firebase.auth
+  }
+}
+
+export default connect(mapStateToProps)(Dashboard);

@@ -1,0 +1,1304 @@
+[
+    {
+      "time": 1577829600000,
+      "tableAResponseMS": 567,
+      "tableBResponseMS": 967,
+      "tableCResponseMS": 120
+    },
+    {
+      "time": 1577833200000,
+      "tableAResponseMS": 667,
+      "tableBResponseMS": 1111,
+      "tableCResponseMS": 309
+    },
+    {
+      "time": 1577836800000,
+      "tableAResponseMS": 802,
+      "tableBResponseMS": 1132,
+      "tableCResponseMS": 285
+    },
+    {
+      "time": 1577840400000,
+      "tableAResponseMS": 986,
+      "tableBResponseMS": 1442,
+      "tableCResponseMS": 843
+    },
+    {
+      "time": 1577844000000,
+      "tableAResponseMS": 1405,
+      "tableBResponseMS": 1537,
+      "tableCResponseMS": 558
+    },
+    {
+      "time": 1577847600000,
+      "tableAResponseMS": 1961,
+      "tableBResponseMS": 1588,
+      "tableCResponseMS": 1007
+    },
+    {
+      "time": 1577851200000,
+      "tableAResponseMS": 1998,
+      "tableBResponseMS": 1337,
+      "tableCResponseMS": 408
+    },
+    {
+      "time": 1577854800000,
+      "tableAResponseMS": 1164,
+      "tableBResponseMS": 2370,
+      "tableCResponseMS": 3174
+    },
+    {
+      "time": 1577858400000,
+      "tableAResponseMS": 1468,
+      "tableBResponseMS": 2987,
+      "tableCResponseMS": 3344
+    },
+    {
+      "time": 1577862000000,
+      "tableAResponseMS": 1501,
+      "tableBResponseMS": 3183,
+      "tableCResponseMS": 3992
+    },
+    {
+      "time": 1577865600000,
+      "tableAResponseMS": 1321,
+      "tableBResponseMS": 3356,
+      "tableCResponseMS": 3475
+    },
+    {
+      "time": 1577869200000,
+      "tableAResponseMS": 1140,
+      "tableBResponseMS": 3427,
+      "tableCResponseMS": 3706
+    },
+    {
+      "time": 1577872800000,
+      "tableAResponseMS": 2091,
+      "tableBResponseMS": 3289,
+      "tableCResponseMS": 3044
+    },
+    {
+      "time": 1577876400000,
+      "tableAResponseMS": 2121,
+      "tableBResponseMS": 2720,
+      "tableCResponseMS": 3230
+    },
+    {
+      "time": 1577880000000,
+      "tableAResponseMS": 1800,
+      "tableBResponseMS": 2010,
+      "tableCResponseMS": 3934
+    },
+    {
+      "time": 1577883600000,
+      "tableAResponseMS": 1519,
+      "tableBResponseMS": 2986,
+      "tableCResponseMS": 2662
+    },
+    {
+      "time": 1577887200000,
+      "tableAResponseMS": 1876,
+      "tableBResponseMS": 2261,
+      "tableCResponseMS": 2195
+    },
+    {
+      "time": 1577890800000,
+      "tableAResponseMS": 1635,
+      "tableBResponseMS": 1339,
+      "tableCResponseMS": 2057
+    },
+    {
+      "time": 1577894400000,
+      "tableAResponseMS": 2214,
+      "tableBResponseMS": 1848,
+      "tableCResponseMS": 2592
+    },
+    {
+      "time": 1577898000000,
+      "tableAResponseMS": 2403,
+      "tableBResponseMS": 1203,
+      "tableCResponseMS": 2673
+    },
+    {
+      "time": 1577901600000,
+      "tableAResponseMS": 2999,
+      "tableBResponseMS": 1050,
+      "tableCResponseMS": 3397
+    },
+    {
+      "time": 1577905200000,
+      "tableAResponseMS": 3313,
+      "tableBResponseMS": 865,
+      "tableCResponseMS": 3953
+    },
+    {
+      "time": 1577908800000,
+      "tableAResponseMS": 3791,
+      "tableBResponseMS": 577,
+      "tableCResponseMS": 4279
+    },
+    {
+      "time": 1577912400000,
+      "tableAResponseMS": 3311,
+      "tableBResponseMS": 522,
+      "tableCResponseMS": 4031
+    },
+    {
+      "time": 1577916000000,
+      "tableAResponseMS": 3544,
+      "tableBResponseMS": 888,
+      "tableCResponseMS": 3586
+    },
+    {
+      "time": 1577919600000,
+      "tableAResponseMS": 2357,
+      "tableBResponseMS": 2897,
+      "tableCResponseMS": 3182
+    },
+    {
+      "time": 1577923200000,
+      "tableAResponseMS": 2287,
+      "tableBResponseMS": 4158,
+      "tableCResponseMS": 1191
+    },
+    {
+      "time": 1577926800000,
+      "tableAResponseMS": 2746,
+      "tableBResponseMS": 1549,
+      "tableCResponseMS": 2507
+    },
+    {
+      "time": 1577930400000,
+      "tableAResponseMS": 3118,
+      "tableBResponseMS": 910,
+      "tableCResponseMS": 3000
+    },
+    {
+      "time": 1577934000000,
+      "tableAResponseMS": 3073,
+      "tableBResponseMS": 2323,
+      "tableCResponseMS": 2440
+    },
+    {
+      "time": 1577937600000,
+      "tableAResponseMS": 3652,
+      "tableBResponseMS": 1237,
+      "tableCResponseMS": 4740
+    },
+    {
+      "time": 1577941200000,
+      "tableAResponseMS": 3190,
+      "tableBResponseMS": 3065,
+      "tableCResponseMS": 1751
+    },
+    {
+      "time": 1577944800000,
+      "tableAResponseMS": 3425,
+      "tableBResponseMS": 1843,
+      "tableCResponseMS": 4495
+    },
+    {
+      "time": 1577948400000,
+      "tableAResponseMS": 3892,
+      "tableBResponseMS": 1375,
+      "tableCResponseMS": 3578
+    },
+    {
+      "time": 1577952000000,
+      "tableAResponseMS": 4196,
+      "tableBResponseMS": 3440,
+      "tableCResponseMS": 4977
+    },
+    {
+      "time": 1577955600000,
+      "tableAResponseMS": 3114,
+      "tableBResponseMS": 2435,
+      "tableCResponseMS": 3994
+    },
+    {
+      "time": 1577959200000,
+      "tableAResponseMS": 3429,
+      "tableBResponseMS": 1557,
+      "tableCResponseMS": 4263
+    },
+    {
+      "time": 1577962800000,
+      "tableAResponseMS": 2986,
+      "tableBResponseMS": 2040,
+      "tableCResponseMS": 3510
+    },
+    {
+      "time": 1577966400000,
+      "tableAResponseMS": 3623,
+      "tableBResponseMS": 2597,
+      "tableCResponseMS": 3952
+    },
+    {
+      "time": 1577970000000,
+      "tableAResponseMS": 3871,
+      "tableBResponseMS": 1923,
+      "tableCResponseMS": 4647
+    },
+    {
+      "time": 1577973600000,
+      "tableAResponseMS": 4334,
+      "tableBResponseMS": 2470,
+      "tableCResponseMS": 4225
+    },
+    {
+      "time": 1577977200000,
+      "tableAResponseMS": 4285,
+      "tableBResponseMS": 1465,
+      "tableCResponseMS": 3793
+    },
+    {
+      "time": 1577980800000,
+      "tableAResponseMS": 4815,
+      "tableBResponseMS": 2542,
+      "tableCResponseMS": 3493
+    },
+    {
+      "time": 1577984400000,
+      "tableAResponseMS": 4303,
+      "tableBResponseMS": 3330,
+      "tableCResponseMS": 3605
+    },
+    {
+      "time": 1577988000000,
+      "tableAResponseMS": 4173,
+      "tableBResponseMS": 2312,
+      "tableCResponseMS": 3135
+    },
+    {
+      "time": 1577991600000,
+      "tableAResponseMS": 3453,
+      "tableBResponseMS": 2898,
+      "tableCResponseMS": 3815
+    },
+    {
+      "time": 1577995200000,
+      "tableAResponseMS": 4206,
+      "tableBResponseMS": 1903,
+      "tableCResponseMS": 4630
+    },
+    {
+      "time": 1577998800000,
+      "tableAResponseMS": 3949,
+      "tableBResponseMS": 1453,
+      "tableCResponseMS": 4986
+    },
+    {
+      "time": 1578002400000,
+      "tableAResponseMS": 3550,
+      "tableBResponseMS": 1455,
+      "tableCResponseMS": 4320
+    },
+    {
+      "time": 1578006000000,
+      "tableAResponseMS": 2320,
+      "tableBResponseMS": 1157,
+      "tableCResponseMS": 4560
+    },
+    {
+      "time": 1578009600000,
+      "tableAResponseMS": 2280,
+      "tableBResponseMS": 4735,
+      "tableCResponseMS": 2543
+    },
+    {
+      "time": 1578013200000,
+      "tableAResponseMS": 3300,
+      "tableBResponseMS": 3004,
+      "tableCResponseMS": 2006
+    },
+    {
+      "time": 1578016800000,
+      "tableAResponseMS": 3921,
+      "tableBResponseMS": 1479,
+      "tableCResponseMS": 1889
+    },
+    {
+      "time": 1578020400000,
+      "tableAResponseMS": 3150,
+      "tableBResponseMS": 4531,
+      "tableCResponseMS": 3547
+    },
+    {
+      "time": 1578024000000,
+      "tableAResponseMS": 4156,
+      "tableBResponseMS": 3951,
+      "tableCResponseMS": 2714
+    },
+    {
+      "time": 1578027600000,
+      "tableAResponseMS": 2806,
+      "tableBResponseMS": 3141,
+      "tableCResponseMS": 1136
+    },
+    {
+      "time": 1578031200000,
+      "tableAResponseMS": 2172,
+      "tableBResponseMS": 3922,
+      "tableCResponseMS": 1032
+    },
+    {
+      "time": 1578034800000,
+      "tableAResponseMS": 2336,
+      "tableBResponseMS": 2245,
+      "tableCResponseMS": 2758
+    },
+    {
+      "time": 1578038400000,
+      "tableAResponseMS": 3129,
+      "tableBResponseMS": 2395,
+      "tableCResponseMS": 3423
+    },
+    {
+      "time": 1578042000000,
+      "tableAResponseMS": 4589,
+      "tableBResponseMS": 2839,
+      "tableCResponseMS": 4977
+    },
+    {
+      "time": 1578045600000,
+      "tableAResponseMS": 3641,
+      "tableBResponseMS": 1526,
+      "tableCResponseMS": 4444
+    },
+    {
+      "time": 1578049200000,
+      "tableAResponseMS": 3274,
+      "tableBResponseMS": 2504,
+      "tableCResponseMS": 431
+    },
+    {
+      "time": 1578052800000,
+      "tableAResponseMS": 3052,
+      "tableBResponseMS": 1970,
+      "tableCResponseMS": 3692
+    },
+    {
+      "time": 1578056400000,
+      "tableAResponseMS": 3976,
+      "tableBResponseMS": 4310,
+      "tableCResponseMS": 3612
+    },
+    {
+      "time": 1578060000000,
+      "tableAResponseMS": 3130,
+      "tableBResponseMS": 3457,
+      "tableCResponseMS": 4345
+    },
+    {
+      "time": 1578063600000,
+      "tableAResponseMS": 2673,
+      "tableBResponseMS": 1833,
+      "tableCResponseMS": 2296
+    },
+    {
+      "time": 1578067200000,
+      "tableAResponseMS": 3378,
+      "tableBResponseMS": 3732,
+      "tableCResponseMS": 4789
+    },
+    {
+      "time": 1578070800000,
+      "tableAResponseMS": 3212,
+      "tableBResponseMS": 4740,
+      "tableCResponseMS": 1485
+    },
+    {
+      "time": 1578074400000,
+      "tableAResponseMS": 2373,
+      "tableBResponseMS": 4451,
+      "tableCResponseMS": 3766
+    },
+    {
+      "time": 1578078000000,
+      "tableAResponseMS": 3124,
+      "tableBResponseMS": 2940,
+      "tableCResponseMS": 2543
+    },
+    {
+      "time": 1578081600000,
+      "tableAResponseMS": 3660,
+      "tableBResponseMS": 2591,
+      "tableCResponseMS": 2878
+    },
+    {
+      "time": 1578085200000,
+      "tableAResponseMS": 3303,
+      "tableBResponseMS": 4560,
+      "tableCResponseMS": 4264
+    },
+    {
+      "time": 1578088800000,
+      "tableAResponseMS": 1867,
+      "tableBResponseMS": 1366,
+      "tableCResponseMS": 1793
+    },
+    {
+      "time": 1578092400000,
+      "tableAResponseMS": 4117,
+      "tableBResponseMS": 4292,
+      "tableCResponseMS": 754
+    },
+    {
+      "time": 1578096000000,
+      "tableAResponseMS": 3390,
+      "tableBResponseMS": 321,
+      "tableCResponseMS": 2000
+    },
+    {
+      "time": 1578099600000,
+      "tableAResponseMS": 1139,
+      "tableBResponseMS": 3885,
+      "tableCResponseMS": 4283
+    },
+    {
+      "time": 1578103200000,
+      "tableAResponseMS": 350,
+      "tableBResponseMS": 1646,
+      "tableCResponseMS": 2503
+    },
+    {
+      "time": 1578106800000,
+      "tableAResponseMS": 4495,
+      "tableBResponseMS": 1376,
+      "tableCResponseMS": 4960
+    },
+    {
+      "time": 1578110400000,
+      "tableAResponseMS": 2754,
+      "tableBResponseMS": 231,
+      "tableCResponseMS": 4615
+    },
+    {
+      "time": 1578114000000,
+      "tableAResponseMS": 1968,
+      "tableBResponseMS": 3512,
+      "tableCResponseMS": 3871
+    },
+    {
+      "time": 1578117600000,
+      "tableAResponseMS": 1339,
+      "tableBResponseMS": 680,
+      "tableCResponseMS": 3647
+    },
+    {
+      "time": 1578121200000,
+      "tableAResponseMS": 4894,
+      "tableBResponseMS": 3019,
+      "tableCResponseMS": 1125
+    },
+    {
+      "time": 1578124800000,
+      "tableAResponseMS": 3824,
+      "tableBResponseMS": 4484,
+      "tableCResponseMS": 1144
+    },
+    {
+      "time": 1578128400000,
+      "tableAResponseMS": 2730,
+      "tableBResponseMS": 4779,
+      "tableCResponseMS": 63
+    },
+    {
+      "time": 1578132000000,
+      "tableAResponseMS": 801,
+      "tableBResponseMS": 3473,
+      "tableCResponseMS": 512
+    },
+    {
+      "time": 1578135600000,
+      "tableAResponseMS": 4592,
+      "tableBResponseMS": 5000,
+      "tableCResponseMS": 607
+    },
+    {
+      "time": 1578139200000,
+      "tableAResponseMS": 2204,
+      "tableBResponseMS": 774,
+      "tableCResponseMS": 3666
+    },
+    {
+      "time": 1578142800000,
+      "tableAResponseMS": 580,
+      "tableBResponseMS": 3619,
+      "tableCResponseMS": 4727
+    },
+    {
+      "time": 1578146400000,
+      "tableAResponseMS": 1630,
+      "tableBResponseMS": 2024,
+      "tableCResponseMS": 3465
+    },
+    {
+      "time": 1578150000000,
+      "tableAResponseMS": 3922,
+      "tableBResponseMS": 222,
+      "tableCResponseMS": 3463
+    },
+    {
+      "time": 1578153600000,
+      "tableAResponseMS": 1048,
+      "tableBResponseMS": 1567,
+      "tableCResponseMS": 1934
+    },
+    {
+      "time": 1578157200000,
+      "tableAResponseMS": 2177,
+      "tableBResponseMS": 3164,
+      "tableCResponseMS": 2509
+    },
+    {
+      "time": 1578160800000,
+      "tableAResponseMS": 751,
+      "tableBResponseMS": 429,
+      "tableCResponseMS": 3810
+    },
+    {
+      "time": 1578164400000,
+      "tableAResponseMS": 764,
+      "tableBResponseMS": 141,
+      "tableCResponseMS": 4904
+    },
+    {
+      "time": 1578168000000,
+      "tableAResponseMS": 2682,
+      "tableBResponseMS": 185,
+      "tableCResponseMS": 1692
+    },
+    {
+      "time": 1578171600000,
+      "tableAResponseMS": 70,
+      "tableBResponseMS": 4765,
+      "tableCResponseMS": 3235
+    },
+    {
+      "time": 1578175200000,
+      "tableAResponseMS": 2008,
+      "tableBResponseMS": 2939,
+      "tableCResponseMS": 499
+    },
+    {
+      "time": 1578178800000,
+      "tableAResponseMS": 1790,
+      "tableBResponseMS": 1353,
+      "tableCResponseMS": 2234
+    },
+    {
+      "time": 1578182400000,
+      "tableAResponseMS": 1881,
+      "tableBResponseMS": 974,
+      "tableCResponseMS": 2630
+    },
+    {
+      "time": 1578186000000,
+      "tableAResponseMS": 4851,
+      "tableBResponseMS": 3832,
+      "tableCResponseMS": 2539
+    },
+    {
+      "time": 1578189600000,
+      "tableAResponseMS": 666,
+      "tableBResponseMS": 4507,
+      "tableCResponseMS": 1768
+    },
+    {
+      "time": 1578193200000,
+      "tableAResponseMS": 1376,
+      "tableBResponseMS": 365,
+      "tableCResponseMS": 3137
+    },
+    {
+      "time": 1578196800000,
+      "tableAResponseMS": 2205,
+      "tableBResponseMS": 230,
+      "tableCResponseMS": 1942
+    },
+    {
+      "time": 1578200400000,
+      "tableAResponseMS": 238,
+      "tableBResponseMS": 2285,
+      "tableCResponseMS": 849
+    },
+    {
+      "time": 1578204000000,
+      "tableAResponseMS": 2161,
+      "tableBResponseMS": 1657,
+      "tableCResponseMS": 1372
+    },
+    {
+      "time": 1578207600000,
+      "tableAResponseMS": 1807,
+      "tableBResponseMS": 3024,
+      "tableCResponseMS": 2681
+    },
+    {
+      "time": 1578211200000,
+      "tableAResponseMS": 742,
+      "tableBResponseMS": 987,
+      "tableCResponseMS": 1081
+    },
+    {
+      "time": 1578214800000,
+      "tableAResponseMS": 2709,
+      "tableBResponseMS": 94,
+      "tableCResponseMS": 4675
+    },
+    {
+      "time": 1578218400000,
+      "tableAResponseMS": 1246,
+      "tableBResponseMS": 1746,
+      "tableCResponseMS": 1837
+    },
+    {
+      "time": 1578222000000,
+      "tableAResponseMS": 4738,
+      "tableBResponseMS": 4167,
+      "tableCResponseMS": 2210
+    },
+    {
+      "time": 1578225600000,
+      "tableAResponseMS": 4980,
+      "tableBResponseMS": 1301,
+      "tableCResponseMS": 880
+    },
+    {
+      "time": 1578229200000,
+      "tableAResponseMS": 4301,
+      "tableBResponseMS": 1475,
+      "tableCResponseMS": 2506
+    },
+    {
+      "time": 1578232800000,
+      "tableAResponseMS": 4608,
+      "tableBResponseMS": 2828,
+      "tableCResponseMS": 2194
+    },
+    {
+      "time": 1578236400000,
+      "tableAResponseMS": 715,
+      "tableBResponseMS": 4330,
+      "tableCResponseMS": 603
+    },
+    {
+      "time": 1578240000000,
+      "tableAResponseMS": 4544,
+      "tableBResponseMS": 1782,
+      "tableCResponseMS": 4935
+    },
+    {
+      "time": 1578243600000,
+      "tableAResponseMS": 1224,
+      "tableBResponseMS": 1426,
+      "tableCResponseMS": 139
+    },
+    {
+      "time": 1578247200000,
+      "tableAResponseMS": 811,
+      "tableBResponseMS": 898,
+      "tableCResponseMS": 276
+    },
+    {
+      "time": 1578250800000,
+      "tableAResponseMS": 3972,
+      "tableBResponseMS": 3521,
+      "tableCResponseMS": 794
+    },
+    {
+      "time": 1578254400000,
+      "tableAResponseMS": 3912,
+      "tableBResponseMS": 881,
+      "tableCResponseMS": 1693
+    },
+    {
+      "time": 1578258000000,
+      "tableAResponseMS": 3324,
+      "tableBResponseMS": 4660,
+      "tableCResponseMS": 3553
+    },
+    {
+      "time": 1578261600000,
+      "tableAResponseMS": 2105,
+      "tableBResponseMS": 4941,
+      "tableCResponseMS": 4154
+    },
+    {
+      "time": 1578265200000,
+      "tableAResponseMS": 4776,
+      "tableBResponseMS": 3838,
+      "tableCResponseMS": 2937
+    },
+    {
+      "time": 1578268800000,
+      "tableAResponseMS": 2675,
+      "tableBResponseMS": 532,
+      "tableCResponseMS": 1750
+    },
+    {
+      "time": 1578272400000,
+      "tableAResponseMS": 2854,
+      "tableBResponseMS": 4658,
+      "tableCResponseMS": 4657
+    },
+    {
+      "time": 1578276000000,
+      "tableAResponseMS": 20,
+      "tableBResponseMS": 612,
+      "tableCResponseMS": 3879
+    },
+    {
+      "time": 1578279600000,
+      "tableAResponseMS": 1283,
+      "tableBResponseMS": 436,
+      "tableCResponseMS": 1700
+    },
+    {
+      "time": 1578283200000,
+      "tableAResponseMS": 1393,
+      "tableBResponseMS": 742,
+      "tableCResponseMS": 254
+    },
+    {
+      "time": 1578286800000,
+      "tableAResponseMS": 4718,
+      "tableBResponseMS": 1889,
+      "tableCResponseMS": 4710
+    },
+    {
+      "time": 1578290400000,
+      "tableAResponseMS": 3520,
+      "tableBResponseMS": 2913,
+      "tableCResponseMS": 3846
+    },
+    {
+      "time": 1578294000000,
+      "tableAResponseMS": 479,
+      "tableBResponseMS": 78,
+      "tableCResponseMS": 618
+    },
+    {
+      "time": 1578297600000,
+      "tableAResponseMS": 620,
+      "tableBResponseMS": 3535,
+      "tableCResponseMS": 3924
+    },
+    {
+      "time": 1578301200000,
+      "tableAResponseMS": 11,
+      "tableBResponseMS": 1013,
+      "tableCResponseMS": 4078
+    },
+    {
+      "time": 1578304800000,
+      "tableAResponseMS": 2288,
+      "tableBResponseMS": 1414,
+      "tableCResponseMS": 4320
+    },
+    {
+      "time": 1578308400000,
+      "tableAResponseMS": 1408,
+      "tableBResponseMS": 629,
+      "tableCResponseMS": 211
+    },
+    {
+      "time": 1578312000000,
+      "tableAResponseMS": 3440,
+      "tableBResponseMS": 1812,
+      "tableCResponseMS": 4891
+    },
+    {
+      "time": 1578315600000,
+      "tableAResponseMS": 1796,
+      "tableBResponseMS": 3569,
+      "tableCResponseMS": 339
+    },
+    {
+      "time": 1578319200000,
+      "tableAResponseMS": 4132,
+      "tableBResponseMS": 1819,
+      "tableCResponseMS": 1357
+    },
+    {
+      "time": 1578322800000,
+      "tableAResponseMS": 4013,
+      "tableBResponseMS": 348,
+      "tableCResponseMS": 3949
+    },
+    {
+      "time": 1578326400000,
+      "tableAResponseMS": 1910,
+      "tableBResponseMS": 1702,
+      "tableCResponseMS": 2214
+    },
+    {
+      "time": 1578330000000,
+      "tableAResponseMS": 3120,
+      "tableBResponseMS": 4757,
+      "tableCResponseMS": 1992
+    },
+    {
+      "time": 1578333600000,
+      "tableAResponseMS": 1353,
+      "tableBResponseMS": 1662,
+      "tableCResponseMS": 3228
+    },
+    {
+      "time": 1578337200000,
+      "tableAResponseMS": 137,
+      "tableBResponseMS": 4936,
+      "tableCResponseMS": 3576
+    },
+    {
+      "time": 1578340800000,
+      "tableAResponseMS": 3727,
+      "tableBResponseMS": 431,
+      "tableCResponseMS": 4492
+    },
+    {
+      "time": 1578344400000,
+      "tableAResponseMS": 3327,
+      "tableBResponseMS": 2784,
+      "tableCResponseMS": 2790
+    },
+    {
+      "time": 1578348000000,
+      "tableAResponseMS": 741,
+      "tableBResponseMS": 1626,
+      "tableCResponseMS": 2018
+    },
+    {
+      "time": 1578351600000,
+      "tableAResponseMS": 3432,
+      "tableBResponseMS": 3277,
+      "tableCResponseMS": 2795
+    },
+    {
+      "time": 1578355200000,
+      "tableAResponseMS": 4254,
+      "tableBResponseMS": 3383,
+      "tableCResponseMS": 3196
+    },
+    {
+      "time": 1578358800000,
+      "tableAResponseMS": 4680,
+      "tableBResponseMS": 1202,
+      "tableCResponseMS": 3451
+    },
+    {
+      "time": 1578362400000,
+      "tableAResponseMS": 276,
+      "tableBResponseMS": 3345,
+      "tableCResponseMS": 4669
+    },
+    {
+      "time": 1578366000000,
+      "tableAResponseMS": 2121,
+      "tableBResponseMS": 414,
+      "tableCResponseMS": 2310
+    },
+    {
+      "time": 1578369600000,
+      "tableAResponseMS": 1646,
+      "tableBResponseMS": 2675,
+      "tableCResponseMS": 798
+    },
+    {
+      "time": 1578373200000,
+      "tableAResponseMS": 4538,
+      "tableBResponseMS": 2836,
+      "tableCResponseMS": 1550
+    },
+    {
+      "time": 1578376800000,
+      "tableAResponseMS": 2449,
+      "tableBResponseMS": 4510,
+      "tableCResponseMS": 4511
+    },
+    {
+      "time": 1578380400000,
+      "tableAResponseMS": 2653,
+      "tableBResponseMS": 808,
+      "tableCResponseMS": 3635
+    },
+    {
+      "time": 1578384000000,
+      "tableAResponseMS": 2176,
+      "tableBResponseMS": 1330,
+      "tableCResponseMS": 2177
+    },
+    {
+      "time": 1578387600000,
+      "tableAResponseMS": 2269,
+      "tableBResponseMS": 3955,
+      "tableCResponseMS": 877
+    },
+    {
+      "time": 1578391200000,
+      "tableAResponseMS": 1990,
+      "tableBResponseMS": 1654,
+      "tableCResponseMS": 259
+    },
+    {
+      "time": 1578394800000,
+      "tableAResponseMS": 4692,
+      "tableBResponseMS": 4550,
+      "tableCResponseMS": 3755
+    },
+    {
+      "time": 1578398400000,
+      "tableAResponseMS": 4255,
+      "tableBResponseMS": 1497,
+      "tableCResponseMS": 2334
+    },
+    {
+      "time": 1578402000000,
+      "tableAResponseMS": 2645,
+      "tableBResponseMS": 4480,
+      "tableCResponseMS": 1261
+    },
+    {
+      "time": 1578405600000,
+      "tableAResponseMS": 77,
+      "tableBResponseMS": 2645,
+      "tableCResponseMS": 4760
+    },
+    {
+      "time": 1578409200000,
+      "tableAResponseMS": 2850,
+      "tableBResponseMS": 4512,
+      "tableCResponseMS": 1411
+    },
+    {
+      "time": 1578412800000,
+      "tableAResponseMS": 4689,
+      "tableBResponseMS": 1280,
+      "tableCResponseMS": 1529
+    },
+    {
+      "time": 1578416400000,
+      "tableAResponseMS": 2733,
+      "tableBResponseMS": 93,
+      "tableCResponseMS": 1979
+    },
+    {
+      "time": 1578420000000,
+      "tableAResponseMS": 4320,
+      "tableBResponseMS": 1136,
+      "tableCResponseMS": 1656
+    },
+    {
+      "time": 1578423600000,
+      "tableAResponseMS": 462,
+      "tableBResponseMS": 4566,
+      "tableCResponseMS": 3672
+    },
+    {
+      "time": 1578427200000,
+      "tableAResponseMS": 3518,
+      "tableBResponseMS": 3115,
+      "tableCResponseMS": 3987
+    },
+    {
+      "time": 1578430800000,
+      "tableAResponseMS": 892,
+      "tableBResponseMS": 4078,
+      "tableCResponseMS": 2481
+    },
+    {
+      "time": 1578434400000,
+      "tableAResponseMS": 3122,
+      "tableBResponseMS": 3229,
+      "tableCResponseMS": 2664
+    },
+    {
+      "time": 1578438000000,
+      "tableAResponseMS": 270,
+      "tableBResponseMS": 4779,
+      "tableCResponseMS": 500
+    },
+    {
+      "time": 1578441600000,
+      "tableAResponseMS": 1136,
+      "tableBResponseMS": 1368,
+      "tableCResponseMS": 2244
+    },
+    {
+      "time": 1578445200000,
+      "tableAResponseMS": 1883,
+      "tableBResponseMS": 4722,
+      "tableCResponseMS": 1784
+    },
+    {
+      "time": 1578448800000,
+      "tableAResponseMS": 4129,
+      "tableBResponseMS": 3824,
+      "tableCResponseMS": 3719
+    },
+    {
+      "time": 1578452400000,
+      "tableAResponseMS": 2188,
+      "tableBResponseMS": 931,
+      "tableCResponseMS": 2371
+    },
+    {
+      "time": 1578456000000,
+      "tableAResponseMS": 3328,
+      "tableBResponseMS": 429,
+      "tableCResponseMS": 1999
+    },
+    {
+      "time": 1578459600000,
+      "tableAResponseMS": 2247,
+      "tableBResponseMS": 269,
+      "tableCResponseMS": 394
+    },
+    {
+      "time": 1578463200000,
+      "tableAResponseMS": 1351,
+      "tableBResponseMS": 2464,
+      "tableCResponseMS": 358
+    },
+    {
+      "time": 1578466800000,
+      "tableAResponseMS": 1791,
+      "tableBResponseMS": 462,
+      "tableCResponseMS": 1178
+    },
+    {
+      "time": 1578470400000,
+      "tableAResponseMS": 1396,
+      "tableBResponseMS": 4544,
+      "tableCResponseMS": 4381
+    },
+    {
+      "time": 1578474000000,
+      "tableAResponseMS": 2281,
+      "tableBResponseMS": 3061,
+      "tableCResponseMS": 1205
+    },
+    {
+      "time": 1578477600000,
+      "tableAResponseMS": 2760,
+      "tableBResponseMS": 4485,
+      "tableCResponseMS": 3298
+    },
+    {
+      "time": 1578481200000,
+      "tableAResponseMS": 2339,
+      "tableBResponseMS": 2806,
+      "tableCResponseMS": 1100
+    },
+    {
+      "time": 1578484800000,
+      "tableAResponseMS": 4986,
+      "tableBResponseMS": 3484,
+      "tableCResponseMS": 3704
+    },
+    {
+      "time": 1578488400000,
+      "tableAResponseMS": 3870,
+      "tableBResponseMS": 3283,
+      "tableCResponseMS": 1029
+    },
+    {
+      "time": 1578492000000,
+      "tableAResponseMS": 1365,
+      "tableBResponseMS": 3993,
+      "tableCResponseMS": 1017
+    },
+    {
+      "time": 1578495600000,
+      "tableAResponseMS": 4548,
+      "tableBResponseMS": 1135,
+      "tableCResponseMS": 4654
+    },
+    {
+      "time": 1578499200000,
+      "tableAResponseMS": 355,
+      "tableBResponseMS": 2444,
+      "tableCResponseMS": 3010
+    },
+    {
+      "time": 1578502800000,
+      "tableAResponseMS": 4855,
+      "tableBResponseMS": 4012,
+      "tableCResponseMS": 3421
+    },
+    {
+      "time": 1578506400000,
+      "tableAResponseMS": 2844,
+      "tableBResponseMS": 2667,
+      "tableCResponseMS": 3030
+    },
+    {
+      "time": 1578510000000,
+      "tableAResponseMS": 1714,
+      "tableBResponseMS": 4062,
+      "tableCResponseMS": 3144
+    },
+    {
+      "time": 1578513600000,
+      "tableAResponseMS": 1593,
+      "tableBResponseMS": 3723,
+      "tableCResponseMS": 2123
+    },
+    {
+      "time": 1578517200000,
+      "tableAResponseMS": 4072,
+      "tableBResponseMS": 2125,
+      "tableCResponseMS": 384
+    },
+    {
+      "time": 1578520800000,
+      "tableAResponseMS": 4576,
+      "tableBResponseMS": 3774,
+      "tableCResponseMS": 3115
+    },
+    {
+      "time": 1578524400000,
+      "tableAResponseMS": 1512,
+      "tableBResponseMS": 566,
+      "tableCResponseMS": 3495
+    },
+    {
+      "time": 1578528000000,
+      "tableAResponseMS": 934,
+      "tableBResponseMS": 732,
+      "tableCResponseMS": 2084
+    },
+    {
+      "time": 1578531600000,
+      "tableAResponseMS": 43,
+      "tableBResponseMS": 4597,
+      "tableCResponseMS": 4752
+    },
+    {
+      "time": 1578535200000,
+      "tableAResponseMS": 4986,
+      "tableBResponseMS": 3748,
+      "tableCResponseMS": 2114
+    },
+    {
+      "time": 1578538800000,
+      "tableAResponseMS": 119,
+      "tableBResponseMS": 2907,
+      "tableCResponseMS": 708
+    },
+    {
+      "time": 1578542400000,
+      "tableAResponseMS": 3702,
+      "tableBResponseMS": 3766,
+      "tableCResponseMS": 2767
+    },
+    {
+      "time": 1578546000000,
+      "tableAResponseMS": 469,
+      "tableBResponseMS": 4628,
+      "tableCResponseMS": 3563
+    },
+    {
+      "time": 1578549600000,
+      "tableAResponseMS": 3418,
+      "tableBResponseMS": 2823,
+      "tableCResponseMS": 2266
+    },
+    {
+      "time": 1578553200000,
+      "tableAResponseMS": 3156,
+      "tableBResponseMS": 566,
+      "tableCResponseMS": 68
+    },
+    {
+      "time": 1578556800000,
+      "tableAResponseMS": 3462,
+      "tableBResponseMS": 1715,
+      "tableCResponseMS": 661
+    },
+    {
+      "time": 1578560400000,
+      "tableAResponseMS": 891,
+      "tableBResponseMS": 995,
+      "tableCResponseMS": 3937
+    },
+    {
+      "time": 1578564000000,
+      "tableAResponseMS": 696,
+      "tableBResponseMS": 2418,
+      "tableCResponseMS": 704
+    },
+    {
+      "time": 1578567600000,
+      "tableAResponseMS": 781,
+      "tableBResponseMS": 4473,
+      "tableCResponseMS": 3584
+    },
+    {
+      "time": 1578571200000,
+      "tableAResponseMS": 3941,
+      "tableBResponseMS": 1649,
+      "tableCResponseMS": 1641
+    },
+    {
+      "time": 1578574800000,
+      "tableAResponseMS": 2368,
+      "tableBResponseMS": 508,
+      "tableCResponseMS": 85
+    },
+    {
+      "time": 1578578400000,
+      "tableAResponseMS": 3542,
+      "tableBResponseMS": 1408,
+      "tableCResponseMS": 1229
+    },
+    {
+      "time": 1578582000000,
+      "tableAResponseMS": 4393,
+      "tableBResponseMS": 2747,
+      "tableCResponseMS": 1556
+    },
+    {
+      "time": 1578585600000,
+      "tableAResponseMS": 231,
+      "tableBResponseMS": 1587,
+      "tableCResponseMS": 2659
+    },
+    {
+      "time": 1578589200000,
+      "tableAResponseMS": 3037,
+      "tableBResponseMS": 3313,
+      "tableCResponseMS": 1980
+    },
+    {
+      "time": 1578592800000,
+      "tableAResponseMS": 3503,
+      "tableBResponseMS": 3162,
+      "tableCResponseMS": 3468
+    },
+    {
+      "time": 1578596400000,
+      "tableAResponseMS": 3643,
+      "tableBResponseMS": 4649,
+      "tableCResponseMS": 2932
+    },
+    {
+      "time": 1578600000000,
+      "tableAResponseMS": 2379,
+      "tableBResponseMS": 3809,
+      "tableCResponseMS": 4936
+    },
+    {
+      "time": 1578603600000,
+      "tableAResponseMS": 624,
+      "tableBResponseMS": 471,
+      "tableCResponseMS": 3452
+    },
+    {
+      "time": 1578607200000,
+      "tableAResponseMS": 319,
+      "tableBResponseMS": 2309,
+      "tableCResponseMS": 2706
+    }
+  ]
