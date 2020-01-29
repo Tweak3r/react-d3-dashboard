@@ -1,5 +1,5 @@
 html {
-    min-height: 100%;
+  min-height: 100%;
 }
   
 body {
@@ -88,16 +88,17 @@ input[type=password]:not(.browser-default):focus:not([readonly]) + label{
   bottom: 0;
   right: 0;
 }
-  @-webkit-keyframes load3 {
-    0% {
-      -webkit-transform: rotate(0deg);
-      transform: rotate(0deg);
-    }
-    100% {
-      -webkit-transform: rotate(360deg);
-      transform: rotate(360deg);
-    }
+
+@-webkit-keyframes load3 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
   }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
 
 @keyframes load3 {
   0% {
@@ -124,8 +125,12 @@ svg {
   height:100%;
 }
 
-.line-chart-container {
-    height: 520px;
+#line-chart-container {
+  height: 520px;
+}
+
+#area-chart-container {
+  height: 400px;
 }
 
 .chart-axis path {
