@@ -2,6 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { signIn } from '../../store/actions/authActions';
 import { Redirect } from 'react-router-dom';
+import Input from './Input';
 
 class SignIn extends React.Component {
   state = {
@@ -25,18 +26,26 @@ class SignIn extends React.Component {
     const { auth, authError } = this.props;
     if (auth.uid) return <Redirect to='/' />
 
+    const inputs = [
+      { name: "email", type: "email", description: "Email" },
+      { name: "password", type: "password", description: "Password" }
+    ];
+
     return (
       <div className="container">
         <form onSubmit={this.handleSubmit} className="white">
           <h5 className="grey-text text-darken-3">Sign In</h5>
-          <div className="input-field">
-            <label htmlFor="email">Email</label>
-            <input type="email" name="email" onChange={this.handleChange} />
-          </div>
-          <div className="input-field">
-            <label htmlFor="password">Email</label>
-            <input type="password" name="password" onChange={this.handleChange} />
-          </div>
+          {
+            inputs.map((input) => (
+              <Input 
+                key={input.name}
+                name={input.name} 
+                type={input.type}
+                description={input.description}
+                handleChange={this.handleChange}
+              />
+            ))
+          }
           <div className="input-field">
             <button className="btn orange lighten-1 z-depth-0">Login</button>
             <div className="red-text center">
