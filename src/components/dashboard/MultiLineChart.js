@@ -1,7 +1,19 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import * as d3 from 'd3';
 
 class MultilineChart extends React.Component {
+  static propTypes = {
+    chartData: PropTypes.arrayOf(
+      PropTypes.shape({
+        tableAResponseMS: PropTypes.number,
+        tableBResponseMS: PropTypes.number,
+        tableCResponseMS: PropTypes.number,
+        time: PropTypes.number
+      })
+    )
+  }
+
   chartContainerRef = React.createRef();
 
   componentDidMount() {

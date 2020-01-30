@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { Redirect } from 'react-router-dom';
 
@@ -9,6 +10,12 @@ import lineChartData from './data/lineChartData.json'
 import areaChartData from './data/areaChartData.json';
 
 class Dashboard extends React.Component {
+  static propTypes = {
+    auth: PropTypes.shape({
+      uid: PropTypes.string
+    })
+  }
+
   render () {
     const { auth } = this.props;
     if (!auth.uid) return <Redirect to='/signin' />

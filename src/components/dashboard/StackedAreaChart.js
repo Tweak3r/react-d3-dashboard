@@ -1,7 +1,19 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import * as d3 from 'd3';
 
 class StackedAreaChart extends React.Component {
+  static propTypes = {
+    chartData: PropTypes.arrayOf(
+      PropTypes.shape({
+        readRequests: PropTypes.number,
+        writeRequests: PropTypes.number,
+        removeRequests: PropTypes.number,
+        date: PropTypes.number
+      })
+    )
+  }
+
   chartContainerRef = React.createRef();
 
   componentDidMount() {

@@ -1,10 +1,19 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { Redirect } from 'react-router-dom';
 import { signUp } from '../../store/actions/authActions';
 import Input from './Input';
 
 class SignUp extends React.Component {
+  static propTypes = {
+    auth: PropTypes.shape({
+      uid: PropTypes.string
+    }),
+    authError: PropTypes.string,
+    signUp: PropTypes.func
+  }
+
   state = {
     firstName: '',
     lastName: '',

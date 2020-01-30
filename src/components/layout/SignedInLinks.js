@@ -1,6 +1,7 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
+import { NavLink } from 'react-router-dom';
 import { signOut } from '../../store/actions/authActions';
 
 const SignedInLinks = (props) => {
@@ -15,6 +16,14 @@ const SignedInLinks = (props) => {
       </li>
     </ul>
   )
+}
+
+SignedInLinks.propTypes = {
+  profile: PropTypes.shape({
+    firstName: PropTypes.string,
+    lastName: PropTypes.string
+  }),
+  signOut: PropTypes.func
 }
 
 const mapDispatchToProps = (dispatch) => {

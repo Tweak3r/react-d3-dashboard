@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 
@@ -16,6 +17,16 @@ const Navbar = (props) => {
         </div>
       </nav>
   )
+}
+
+Navbar.propTypes = {
+  auth: PropTypes.shape({
+    uid: PropTypes.string
+  }),
+  profile: PropTypes.shape({
+    firstName: PropTypes.string,
+    lastName: PropTypes.string
+  })
 }
 
 const mapStateToProps = (state) => {
