@@ -22,10 +22,10 @@ class StackedAreaChart extends React.Component {
   }
 
   initChart(data) {
-    const keys = d3.keys(data[0]).filter(key => { return key !== 'date' });
+    const keys = d3.keys(data[0]).filter(key => { return key !== 'time' });
     const color = d3.scaleOrdinal().domain(keys).range(d3.schemeSet2);
 
-    data.forEach(d => d.date = new Date(d.date));
+    data.forEach(d => d.date = new Date(d.time));
     const stackedData = d3.stack().keys(keys)(data);
 
     // Dimensions and margins for the graphs

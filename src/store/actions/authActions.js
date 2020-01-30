@@ -1,3 +1,11 @@
+import { 
+  LOGIN_SUCCESS, 
+  LOGIN_ERROR, 
+  SIGNUP_SUCCESS, 
+  SIGNUP_ERROR,
+  SIGNOUT_SUCCESS 
+} from '../constants/authConstants';
+
 export const signIn = (credentials) => {
     return (dispatch, getState, { getFirebase }) => {
       const firebase = getFirebase();
@@ -6,9 +14,9 @@ export const signIn = (credentials) => {
         credentials.email, 
         credentials.password
       ).then(() => {
-        dispatch({ type: 'LOGIN_SUCCESS' });
+        dispatch({ type: LOGIN_SUCCESS });
       }).catch((err) => {
-        dispatch({ type: 'LOGIN_ERROR', err });
+        dispatch({ type: LOGIN_ERROR, err });
       });
     }
   }
@@ -18,7 +26,7 @@ export const signIn = (credentials) => {
       const firebase = getFirebase();
   
       firebase.auth().signOut().then(() => {
-        dispatch({ type: 'SIGNOUT_SUCCESS' });
+        dispatch({ type: SIGNOUT_SUCCESS });
       }).then(() => {
         firebase.logout();
       });
@@ -39,9 +47,9 @@ export const signIn = (credentials) => {
           lastName: user.lastName
         });
       }).then(() => {
-        dispatch({ type: 'SIGNUP_SUCCESS' });
+        dispatch({ type: SIGNUP_SUCCESS });
       }).catch(err => {
-        dispatch({ type: 'SIGNUP_ERROR', err });
+        dispatch({ type: SIGNUP_ERROR, err });
       });
     }
   }
